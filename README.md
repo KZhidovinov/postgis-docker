@@ -7,6 +7,8 @@ Documentation for `postgres` image [here](https://registry.hub.docker.com/_/post
 
 See PostGIS documentation [here](http://postgis.net/docs/).
 
+Docker Hub [link](https://hub.docker.com/r/kzhidovinov/postgis).
+
 ## Installed extensions
 
 ```sql
