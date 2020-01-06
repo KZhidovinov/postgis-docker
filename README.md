@@ -3,6 +3,12 @@
 - Postgresql 12.1
 - PostGIS 3.0
 
+Documentation for `postgres` image [here](https://registry.hub.docker.com/_/postgres/]).
+
+See PostGIS documentation [here](http://postgis.net/docs/).
+
+## Installed extensions
+
 ```sql
 SELECT name, default_version FROM pg_available_extensions ORDER BY name;
 ```
